@@ -1,0 +1,30 @@
+{
+  "name": "docsitem2b",
+  "version": "0.0.1",
+  "description": "s",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mermaid-parse": "^2.0.1",
+    "swagger-ui-express": "^4.4.0",
+    "yamljs": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "hledesma",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "http://git.galiciaseguros.com.ar:7990/scm/m2b/doc-technical-motors-platform.git"
+  },
+  "keywords": [
+    "documentation",
+    "doc",
+    "openapi",
+    "sequences",
+    "mermaid"
+  ]
+}
