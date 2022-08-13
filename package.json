@@ -1,5 +1,5 @@
 {
-  "name": "docsitem2b",
+  "name": "docsite",
   "version": "0.0.1",
   "description": "s",
   "main": "server.js",
@@ -14,11 +14,11 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "hledesma",
+  "author": "rledesma912",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "http://git.galiciaseguros.com.ar:7990/scm/m2b/doc-technical-motors-platform.git"
+    "url": ""
   },
   "keywords": [
     "documentation",
